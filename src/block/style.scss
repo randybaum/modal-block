@@ -56,6 +56,11 @@
   }
 }
 
+.admin-bar .bod-block-popup-overlay,
+.admin-bar .bod-block-popup-wrap .bod-block-popup-closer {
+	top: 32px;
+}
+
 .bod-block-popup-wrap {
   z-index: 10002;
   
